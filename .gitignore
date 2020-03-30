@@ -1,0 +1,5 @@
+# this is a comment
+
+#to tell git to ignore all files inside the repo that end with either .txt or .ppm
+	*.txt  
+	*.ppm
